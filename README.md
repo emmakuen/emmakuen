@@ -6,8 +6,6 @@
 
 ### I'm a former International News Editor 📺 turned into Software Developer and Data Analyst 👩‍💻
 
-I'm currently:
-
 - 🚀 I'm currently working on a bug tracker application 🐛 and an e-commerce website 🛒!
 - 👯 I'm looking to collaborate on React projects
 - 🌱 I'm currently learning more about Flutter and Three.js
