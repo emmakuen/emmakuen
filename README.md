@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47k1ewyw6z5sgeyuiysib3b8v3cwhxkkvif2h9n6nw&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47k1ewyw6z5sgeyuiysib3b8v3cwhxkkvif2h9n6nw&rid=giphy.gif&ct=g" width="100%"/>
 </div>
 ### Hi there, I'm Emma 👋
 
