@@ -4,11 +4,9 @@
 
 # Hi there, I'm Emma 👋
 
-### I'm a former International News Editor 📺 turned into Software Developer and Data Analyst 👩‍💻
+### I'm a former International News Editor 📺 turned into Software Engineer 👩‍💻
 
-- 🚀 I'm currently working on a bug tracker application 🐛 and an e-commerce website 🛒!
-- 👯 I'm looking to collaborate on React projects
-- 🌱 I'm currently learning more about Flutter and Three.js
+- 🌱 I'm currently learning more about Go and Rust
 - 📫 Reach me at emma@emmaku.com
 - 🙈 Fun Fact: My childhood dream was to become a singer 🎤🎶
 
@@ -23,19 +21,13 @@
 ## Tech Stack
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindCSS)
 - 💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- 📱 &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
