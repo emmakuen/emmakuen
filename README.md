@@ -6,9 +6,8 @@
 
 ### I'm a former International News Editor 📺 turned into Software Engineer 👩‍💻
 
-- 🌱 I'm currently learning more about Go and Rust
+- 🌱 I'm currently learning more about Go, Rust and DevOps
 - 📫 Reach me at emma@emmaku.com
-- 🙈 Fun Fact: My childhood dream was to become a singer 🎤🎶
 
 ## Github Stats:
 
