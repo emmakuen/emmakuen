@@ -9,10 +9,6 @@
 - 🌱 I'm currently learning more about Go, Rust and DevOps
 - 📫 Reach me at emma@emmaku.com
 
-## Top Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmakuen&count_private=true&show_icons=true&theme=tokyonight&layout=compact)
-
 ## Tech Stack
 
 - 🌐 &nbsp;
