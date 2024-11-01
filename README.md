@@ -4,8 +4,6 @@
 
 # Hi there, I'm Emma 👋
 
-### I'm a former International News Editor 📺 turned into Software Engineer 👩‍💻
-
 - 🌱 I'm currently learning more about Go, Rust and DevOps
 - 📫 Reach me at emma@emmaku.com
 
